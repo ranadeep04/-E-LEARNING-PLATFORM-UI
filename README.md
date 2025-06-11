@@ -16,3 +16,4 @@ DESCRIPTION: This task involves the design and development of a responsive and m
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/0e052af2-5649-4f66-a661-fd62bd05955e)
